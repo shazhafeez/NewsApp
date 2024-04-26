@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Kati Weis",
+        "title": "Latina-owned Longmont restaurant serves up slices of Peruvian culture, takes Coloradans on a tasty journey to the Andes",
+        "description": "Rosario's Peruvian Restaurant in Longmont has become a staple in the Denver metro area over the last 10 years, thanks to the determination and passion for cooking by the restaurant's owner.",
+        "url": "https://www.cbsnews.com/colorado/news/rosarios-latina-owned-longmont-restaurant-peruvian-culture-colorado/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/29/62e00588-2d0e-43cd-bac6-14c535376280/thumbnail/1200x630/f85d79464f2dfd52670bbf08754af4c9/rosarios4.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
+        "publishedAt": "2023-12-27T15:38:00+00:00",
+        "content": "Latina-owned Longmont restaurant serves up slices of Peruvian culture \r\nLatina-owned Longmont restaurant serves up slices of Peruvian culture03:48\r\nThis story was originally published in October. It … [+4293 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Wired",
+        "title": "Brazilian Gamers Aren't Waiting for Hollywood. They're Building Their Own Cons",
+        "description": "Perifacon shows the power of gaming, geek culture, and tech outside of uptown São Paulo.",
+        "url": "https://www.wired.com/story/brazil-games-fandom-perifacon/",
+        "urlToImage": "https://media.wired.com/photos/658399bd032a5a539d43fb81/191:100/w_1280,c_limit/Perifacon-2023-Culture-IMG_6731.jpg",
+        "publishedAt": "2023-12-27T14:00:00Z",
+        "content": "In 2022, I interviewed journalistMariana Ayrez, who opened my eyes to the relevance of Perifacon. She reiterated that while other events promote pop culture and bring together artists and the public,… [+2580 chars]"
+      },
+      {
+        "source": {
+          "id": "the-american-conservative",
+          "name": "The American Conservative"
+        },
+        "author": null,
+        "title": "Culture Archives - The American Conservative",
+        "description": null,
+        "url": "https://www.theamericanconservative.com/category/culture/",
+        "urlToImage": null,
+        "publishedAt": "2022-07-07T21:37:31.2068471Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "national-geographic",
+          "name": "National Geographic"
+        },
+        "author": null,
+        "title": "Bonus Episode: In Conversation: Reframing Black History and Culture",
+        "description": "National Geographic presents In Conversation, a special podcast episode featuring explorer Tara Roberts, computer scientist Gloria Washington, and photographer Ruddy Roye. Through their dynamic work across maritime archeology, artificial intelligence, and pho…",
+        "url": "https://www.nationalgeographic.com/podcasts/overheard/season-5/bonus-conversation-reframing-black-history-culture-month.html",
+        "urlToImage": "https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/podcasts/Overheard/season5/bonusBHM/collage-3portraits2.jpg",
+        "publishedAt": "2021-02-17T14:37:22.7296515Z",
+        "content": null
+      }
+    ]
+  }
